@@ -1,4 +1,8 @@
-### Hi there 👋
+#   print("Hello, World!", "Soy Zeta")
+## Me dedico al desarrollo de experiencias de RV y apps de RA en el ámbito científico-sanitario.
+### Ahora me gusta pasar mi tiempo libre aprendiendo otros tipos de desarrollo y nuevos lenguajes de programación.
+
+![https://github.com/zetared92](https://raw.githubusercontent.com/zetared92/zetared92/master/zeta_github_banner_profile.png)
 
 <!--
 **ZetaRed92/ZetaRed92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
