@@ -4,7 +4,8 @@ Ahora me gusta pasar mi tiempo libre aprendiendo otros tipos de desarrollo y nue
 
 ![https://github.com/zetared92](https://raw.githubusercontent.com/zetared92/zetared92/master/zeta_github_banner_profile.png)
 
-## myTech 💻
+💻<img width='15%' src='https://raw.githubusercontent.com/zetared92/zetared92/master/myTech_Zeta.png'/>💻
+
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
 [![Linux](https://img.shields.io/badge/Linux-0275af?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
