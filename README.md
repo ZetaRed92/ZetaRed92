@@ -11,4 +11,4 @@ Ahora me gusta pasar mi tiempo libre aprendiendo otros tipos de desarrollo y nue
 [![Swift](https://img.shields.io/badge/Swift-ff3e20?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
 
 ### 🧩 PLEASE, be patient I'm austistic 🧩
-![https://github.com/zetared92](https://raw.githubusercontent.com/zetared92/zetared92/master/zeta_github_footer.png)
+<img width='35%' src='https://raw.githubusercontent.com/zetared92/zetared92/master/zeta_github_footer.png' align="right"/>
