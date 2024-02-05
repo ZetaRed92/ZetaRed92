@@ -8,6 +8,7 @@ Ahora me gusta pasar mi tiempo libre aprendiendo otros tipos de desarrollo y nue
 ![https://github.com/zetared92](https://raw.githubusercontent.com/zetared92/zetared92/master/zeta_github_banner_profile.png)
 
 🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩
+
 <img width='15%' src='https://raw.githubusercontent.com/zetared92/zetared92/master/myTech_Zeta.png'/>
 
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
